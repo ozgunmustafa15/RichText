@@ -90,7 +90,6 @@
             <div class="col-lg-6">
                 <div class="genel-kutu">
                     <h3>Bakım Modu Ayarı</h3>
-                    <h1>Başlık Eklendiii</h1>
                     <ul>
                         <li>
                             <label>Bakım Modu</label>
